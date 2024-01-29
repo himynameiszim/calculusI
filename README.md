@@ -1,2 +1,4 @@
-# calculusI
-while(studying &amp;&amp; lifespan) lifespan--;  
+# calculus I
+while(studying &amp;&amp; lifespan) lifespan--;  <br />
+Import to Anki for use.
+
